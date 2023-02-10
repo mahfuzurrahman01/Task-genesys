@@ -43,7 +43,7 @@ const Home = () => {
                             <img src={image3} alt="" className="w-full max-h-96" />
                             <div className="mt-6 pb-3">
                                 <p className="uppercase text-xl text-center">Lamp Shade</p>
-                                <p className="text-gray-700 text-center font-light text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, magni.</p>
+                                <p className="text-gray-700 text-center font-light text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, magnt.</p>
                             </div>
                         </div>
                     </div>
